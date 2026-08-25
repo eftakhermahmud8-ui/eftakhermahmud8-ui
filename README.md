@@ -3,6 +3,8 @@
 ✈️ Aviation enthusiast | 💻 Tech & coding<br>Building projects, chasing ideas, and figuring out how things work.<br>Curious about the world — always learning, exploring, and building.
 
 
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hell_yeah_efad) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2HtCkLhtU) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ContactForsaken7376) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Efad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eftakhermahmud8@gmail.com) 
 
