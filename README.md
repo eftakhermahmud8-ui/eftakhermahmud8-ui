@@ -22,14 +22,5 @@
 
 
 ### ✍️ Random Quote (my fav one )
-<blockquote style="
-  background: #00ffff;
-  padding: 15px 20px;
-  border-radius: 8px;
-  font-weight: bold;
-  font-style: italic;
-">
-  “A person who thinks all the time has nothing to think about except thoughts”<br>
-  <span style="font-weight: normal; font-style: italic;">— Alan Turing</span>
-</blockquote>
-
+> ***“A person who thinks all the time has nothing to think about except thoughts”***  
+> — Alan Turing
