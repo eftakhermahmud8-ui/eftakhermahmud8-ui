@@ -1,4 +1,4 @@
-# Hello gng
+# Hello✌
 # 💫 About Me:
 ✈️ Aviation enthusiast | 💻 Tech & coding<br>Building projects, chasing ideas, and figuring out how things work.<br>Curious about the world — always learning, exploring, and building.
 
@@ -23,7 +23,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eftakhermahmud8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Quote (my fav one )
+![](A person who thinks all the time has nothing to think about except thoughts)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
