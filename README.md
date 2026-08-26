@@ -17,13 +17,19 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eftakhermahmud8-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=eftakhermahmud8-ui&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eftakhermahmud8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Quote (my fav one )
-![](A person who thinks all the time has nothing to think about except thoughts)
-
+<blockquote style="
+  background: #00ffff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-style: italic;
+">
+  “A person who thinks all the time has nothing to think about except thoughts”<br>
+  <span style="font-weight: normal; font-style: italic;">— Alan Turing</span>
+</blockquote>
 
