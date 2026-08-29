@@ -1,5 +1,5 @@
 # Hello✌
-# 💫 About Me:
+#  About Me:
 ✈️ Aviation enthusiast | 💻 Tech & coding<br>Building projects, chasing ideas, and figuring out how things work.<br>Curious about the world — always learning, exploring, and building.
 
 
